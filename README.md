@@ -1,4 +1,3 @@
-Markdown
 # ✈️ Automatización de Conciliación Operador Turístico- Sitema en MYSQL
 
 Este proyecto desarrolla una solución eficiente y automatizada mediante **SQL (MySQL)** para resolver uno de los problemas más comunes y tediosos en la administración de agencias de viajes: la conciliación de cuentas entre los reportes de los operadores turísticos externos y los registros internos del sistema de gestión ERP.
